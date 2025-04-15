@@ -6,7 +6,7 @@ function validate ()
    var password = document.login.password.value;
    var valid = false;
    var usernameArray = ["yuki"]
-   var passwordArray = ["123"]
+   var passwordArray = ["124"]
    for (var i = 0; i < usernameArray.length; i++)
 
 if (user == usernameArray[i])
